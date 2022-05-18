@@ -7,9 +7,9 @@
 ### I am a self-taught programmer from CHT in Bangladesh. 🔭
 #### Here's a List of things I am currently keeping myself busy with:
 - 🌱 Helping solve local community problems by building <ins>**Android Applications**</ins> that bring impact on people lifes.
-- 🛠  I’m currently learning <ins>Android</ins>, <ins>Kotlin</ins>, <ins>Design Patterns</ins> and <ins>Jetpack Compose</ins>.
+- 🛠  I’m currently learning <ins>Android</ins>, <ins>Java</ins>, <ins>Kotlin</ins>, <ins>Design Patterns</ins> and <ins>Jetpack Compose</ins>.
 - ✍️ Writing tech blog posts over my **[Blog Page](http://sammapanna.blogspot.com/)** to help more developers learn from my experience.
-- 💻 In my free time I do Competitive Programming, find me here **[CodeChef](https://www.codechef.com/users/sarbanandabhikkhu)**, **[CodeForces](https://codeforces.com/profile/Special_octo20)** and **[AtCoder](https://atcoder.jp/users/Special_octo20)**.
+- 💻 In my free time I do Competitive Programming, find me here **[CodeChef](https://www.codechef.com/users/sarbanandabhikkhu)**, **[CodeForces](https://codeforces.com/profile/sarbanandabhikkhu)** and **[AtCoder](https://atcoder.jp/users/sarbanandabhikkhu)**.
 - ⚡ To know more headout to my **[Portfolio](http://sarbanandabhikkhu.github.io/)**.
 - 👯 When I'm not coding, find me on the court playing basketball or cricket!😉<br>
 
@@ -41,7 +41,7 @@
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" /></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg"></code>
@@ -105,9 +105,11 @@
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ....
 -->
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+<!--
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarbanandabhikkhu&layout=compact&theme=radical&langs_count=10&card_width=300&hide=Makefile" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sarbanandabhikkhu&count_private=true&show_icons=true&theme=radical&line_height=27&v=5&include_all_commits=true" alt="Atul's github stats" />
-</a> -->
+</a>
+-->
