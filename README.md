@@ -1,7 +1,7 @@
 
 <!--
 **sarbanandabhikkhu/sarbanandabhikkhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-<img src="https://github.com/sarbanandabhikkhu/sarbanandabhikkhu/raw/master/resources/gitInto.jpg" alt="Hero image">
+<img src="https://github.com/sarbanandabhikkhu/sarbanandabhikkhu/blob/main/gitIntro.gif" alt="Hero image">
 
 ### I am incredibly passionate about building unique and innovative products, love experimenting with new technologies and occasionally joining hackathons!! 👋
 ### I am a self-taught programmer from CHT in Bangladesh. 🔭
