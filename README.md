@@ -40,7 +40,7 @@
       <img
         align="left"
         width="396"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=iltwats&theme=react&border=61dafb&hide_border=true"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=sarbanandabhikkhu&theme=react&border=61dafb&hide_border=true"
         alt="Some Records"
       />
     </a>
@@ -48,7 +48,7 @@
       <img
         align="right"
         width="396"
-        src="https://github-readme-stats.vercel.app/api?username=iltwats&show_icons=true&theme=react&border_color=61dafb&hide_border=true&include_all_commits=true&count_private=true"
+        src="https://github-readme-stats.vercel.app/api?username=sarbanandabhikkhu&show_icons=true&theme=react&border_color=61dafb&hide_border=true&include_all_commits=true&count_private=true"
       />
     </a>
   </div>
@@ -58,7 +58,7 @@
       <img
         width="335"
         align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=iltwats&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&hide=Jupyter Notebook,CSS,Makefile,Dockerfile,HTML"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarbanandabhikkhu&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&hide=Jupyter Notebook,CSS,Makefile,Dockerfile,HTML"
       />
     </a>
   </div>
@@ -74,7 +74,7 @@
     <a href="https://sarbanandabhikkhu.github.io/" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
   </p>
   <p align="center">  
-     <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=Iltwats.visitor-badge"> 
+     <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=sarbanandabhikkhu.visitor-badge"> 
   </p>
 </p>
 
@@ -88,8 +88,8 @@
 - ⚡ Fun fact: ....
 -->
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iltwats&layout=compact&theme=radical&langs_count=10&card_width=300&hide=Makefile" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarbanandabhikkhu&layout=compact&theme=radical&langs_count=10&card_width=300&hide=Makefile" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Iltwats&count_private=true&show_icons=true&theme=radical&line_height=27&v=5&include_all_commits=true" alt="Atul's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sarbanandabhikkhu&count_private=true&show_icons=true&theme=radical&line_height=27&v=5&include_all_commits=true" alt="Atul's github stats" />
 </a> -->
