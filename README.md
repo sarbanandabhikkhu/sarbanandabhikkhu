@@ -42,12 +42,32 @@ I'm SarbaNanda, a Budddhist Monk from CHT in <img src="assets/bangladesh.jpg" wi
 [![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#)
 [![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)
 
+<details>
+  <summary>
+    You wanna know more about me?
+  </summary>
+
+  I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and that's why Learn with Sumit Youtube Channel exists!
+
+  #### What is I'm Here?
+
+  "Learn with Sumit" is all about teaching web development skills and techniques in an efficient and practical manner. It has all the tools you need to learn the newest and most popular technologies to convert you from a no stack to full stack developer. I started "Learn with Sumit" in order to share my passion for web development and do what I truly love - teach and inspire new web developers.
+
+  #### Github Stats
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=sarbanandabhikkhu&count_private=true&show_icons=true&theme=radical&line_height=27&v=5&include_all_commits=true" alt="SarbaNanda's github stats"/>
+  </a>
+</details>
+
+
+#### Profile Visits
+![visitors](https://visitor-badge.glitch.me/badge?page_id=sarbanandabhikkhu.sarbanandabhikkhu)
+<img src="https://visitor-badge.laobi.icu/badgepage_id=sarbanandabhikkhu.visitor-badge">
+
 ## 📈 Some Stats
 
 <div align="center">
-  <div>
-    <img src="https://visitor-badge.laobi.icu/badgepage_id=sarbanandabhikkhu.visitor-badge">
-  </div>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
     <img width="100%"
       src="https://github-readme-stats.vercel.app/api?username=sarbanandabhikkhu&show_icons=true&theme=react&border_color=61dafb&hide_border=true&include_all_commits=true&count_private=true"/>
@@ -59,9 +79,6 @@ I'm SarbaNanda, a Budddhist Monk from CHT in <img src="assets/bangladesh.jpg" wi
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarbanandabhikkhu&layout=compact&theme=radical&langs_count=10&card_width=300&hide=Makefile"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=sarbanandabhikkhu&count_private=true&show_icons=true&theme=radical&line_height=27&v=5&include_all_commits=true" alt="SarbaNanda's github stats"/>
   </a>
 </div>
 <hr>
