@@ -135,7 +135,7 @@ I'm SarbaNanda, a Budddhist Monk from CHT in <img src="assets/bangladesh.jpg" wi
       src="https://github-readme-streak-stats.herokuapp.com/?user=sarbanandabhikkhu&theme=react&border=61dafb&hide_border=true"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarbanandabhikkhu&layout=compact&theme=react&border_color=61dafb&langs_count=10&card_width=300&hide=Makefile"/>
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarbanandabhikkhu&layout=compact&theme=react&border_color=61dafb&hide_border=true&langs_count=10"/>
   </a>
 </div>
 <hr>
