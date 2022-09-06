@@ -28,8 +28,8 @@ I'm SarbaNanda, a Budddhist Monk from CHT in <img src="assets/bangladesh.jpg" wi
 [![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#)
 [![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)
 [![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](#)
-[![VSCode Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](#)
 [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
+[![VSCode Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](#)
 
 ## My Future Learning Plan
 
@@ -51,7 +51,7 @@ I'm SarbaNanda, a Budddhist Monk from CHT in <img src="assets/bangladesh.jpg" wi
 - [Redux কেন প্রয়োজন - Why Redux - A talk with Jhankar Mahbub](https://www.youtube.com/watch?v=fuAsjgOp-6U)
 - [থিংক ইন এ রিডাক্স ওয়ে কোর্সে কিভাবে এনরোল করবেন](https://www.youtube.com/watch?v=CsSyy0qfuiQ)
 
-### <details>
+<details>
   <summary>
     You wanna know more about me?
   </summary>
@@ -60,7 +60,15 @@ I'm SarbaNanda, a Budddhist Monk from CHT in <img src="assets/bangladesh.jpg" wi
 
   #### What is I'm Here?
 
-  I'm SarbaNanda, a Budddhist Monk from CHT in <img src="assets/bangladesh.jpg" width="20"/> Bangladesh. I am more interested in Buddhism and Buddhist literature and would like to work on it in the future. Desire to do something related to Buddhism on digital platform. I practice coding in my spare time, I believe that I have acquired enough coding knowledge to run a job. I always have a passion to learn and know something new. I also want to work as a content creator on [Youtube](https://youtube.com/channel/UC3WIwB7nbYMEvWW4CGQGYsA).
+  ### I am incredibly passionate about building unique and innovative products, love experimenting with new technologies and occasionally joining hackathons!! 👋
+  ### I am a self-taught programmer from CHT in Bangladesh. 🔭
+  #### Here's a List of things I am currently keeping myself busy with:
+  - 🌱 Helping solve local community problems by building <ins>**Android Applications**</ins> that bring impact on people lifes.
+  - 🛠  I’m currently learning <ins>Android</ins>, <ins>Java</ins>, <ins>Kotlin</ins>, <ins>Design Patterns</ins> and <ins>Jetpack Compose</ins>.
+  - ✍️ Writing tech blog posts over my **[Blog Page](http://sammapanna.blogspot.com/)** to help more developers learn from my experience.
+  - 💻 In my free time I do Competitive Programming, find me here **[CodeChef](https://www.codechef.com/users/sarbanandabhikkhu)**, **[CodeForces](https://codeforces.com/profile/sarbanandabhikkhu)** and **[AtCoder](https://atcoder.jp/users/sarbanandabhikkhu)**.
+  - ⚡ To know more headout to my **[Portfolio](http://sarbanandabhikkhu.github.io/)**.
+  - 👯 When I'm not coding, find me on the court playing basketball or cricket!😉<br>
 
   #### Github Stats
 
@@ -71,7 +79,6 @@ I'm SarbaNanda, a Budddhist Monk from CHT in <img src="assets/bangladesh.jpg" wi
 
 ## 📈 Some Stats
 
-### Profile Visits
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sarbanandabhikkhu.sarbanandabhikkhu)
 
 <div align="center">
