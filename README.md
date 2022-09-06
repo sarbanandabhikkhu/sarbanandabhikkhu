@@ -3,36 +3,37 @@
 
 ## Hi there my gorgeous friend <img src="assets/hello.gif" width="28px" alt="hi">
 
-I'm SarbaNanda, a Budddhist Monk from CHT in Bangladesh a Full Stack Web Application Developer from <img src="assets/bangladesh.jpg" width="18"/> Bangladesh and Content Creator on [Youtube](https://youtube.com/channel/UC3WIwB7nbYMEvWW4CGQGYsA). I Spend most of time coding outstanding projects or recording tutorials.
+I'm SarbaNanda, a Budddhist Monk from CHT in <img src="assets/bangladesh.jpg" width="20"/> Bangladesh. I am more interested in Buddhism and Buddhist literature and would like to work on it in the future. Desire to do something related to Buddhism on digital platform. I practice coding in my spare time, I believe that I have acquired enough coding knowledge to run a job. I always have a passion to learn and know something new. I also want to work as a content creator on [Youtube](https://youtube.com/channel/UC3WIwB7nbYMEvWW4CGQGYsA).
 
 ## 📈 Some Stats
 
-  <div align="center">
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img
-        align="left"
-        width="396"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=sarbanandabhikkhu&theme=react&border=61dafb&hide_border=true"
-        alt="Some Records"
-      />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img
-        align="right"
-        width="396"
-        src="https://github-readme-stats.vercel.app/api?username=sarbanandabhikkhu&show_icons=true&theme=react&border_color=61dafb&hide_border=true&include_all_commits=true&count_private=true"
-      />
-    </a>
-  </div>
-  <div align="center" title="Go to Source">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img
-        width="335"
-        align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarbanandabhikkhu&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&hide=Jupyter Notebook,CSS,Makefile,Dockerfile,HTML"
-      />
-    </a>
-  </div>
+<div align="center" title="Go to Source">
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+    <img
+      align="left"
+      width="396"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=sarbanandabhikkhu&theme=react&border=61dafb&hide_border=true"
+      alt="Some Records"
+    />
+  </a>
+<br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    <img
+      align="right"
+      width="396"
+      src="https://github-readme-stats.vercel.app/api?username=sarbanandabhikkhu&show_icons=true&theme=react&border_color=61dafb&hide_border=true&include_all_commits=true&count_private=true"
+    />
+  </a>
+  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      width="335"
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarbanandabhikkhu&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&hide=Jupyter Notebook,CSS,Makefile,Dockerfile,HTML"
+    />
+  </a>
+</div>
+<br/>
 <hr>
 <p align="center">
    <i>Let's connect and chat! Open to anything under the sun.</i>
