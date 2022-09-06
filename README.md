@@ -7,28 +7,25 @@ I'm SarbaNanda, a Budddhist Monk from CHT in <img src="assets/bangladesh.jpg" wi
 
 ## 📈 Some Stats
 
-<div align="center" title="Go to Source">
+<div align="center">
   <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
     <img
-      align="left"
-      width="396"
+      width="360"
       src="https://github-readme-streak-stats.herokuapp.com/?user=sarbanandabhikkhu&theme=react&border=61dafb&hide_border=true"
       alt="Some Records"
     />
   </a>
-<br/>
+  <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
     <img
-      align="right"
-      width="396"
+      width="360"
       src="https://github-readme-stats.vercel.app/api?username=sarbanandabhikkhu&show_icons=true&theme=react&border_color=61dafb&hide_border=true&include_all_commits=true&count_private=true"
     />
   </a>
   <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
-      width="335"
-      align="center"
+      width="360"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarbanandabhikkhu&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&hide=Jupyter Notebook,CSS,Makefile,Dockerfile,HTML"
     />
   </a>
