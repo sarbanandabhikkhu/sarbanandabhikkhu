@@ -16,7 +16,7 @@ I'm SarbaNanda, a Budddhist Monk from CHT in <img src="assets/bangladesh.jpg" wi
 <!-- [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarbanandabhikkhu/) -->
 <!-- [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/snbhikkhu) -->
 
-**Languages and Tools familiar or experience with:**  
+**Languages and Tools**  
 
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
@@ -101,8 +101,6 @@ I'm SarbaNanda, a Budddhist Monk from CHT in <img src="assets/bangladesh.jpg" wi
     You wanna know more about me?
   </summary>
 
-  ### What is I'm Here?
-
   ### I am incredibly passionate about building unique and innovative products, love experimenting with new technologies and occasionally joining hackathons!! 👋
   ### I am a self-taught programmer from CHT in Bangladesh. 🔭
   #### Here's a List of things I am currently keeping myself busy with:
@@ -112,15 +110,9 @@ I'm SarbaNanda, a Budddhist Monk from CHT in <img src="assets/bangladesh.jpg" wi
   - 💻 In my free time I do Competitive Programming, find me here **[CodeChef](https://www.codechef.com/users/sarbanandabhikkhu)**, **[CodeForces](https://codeforces.com/profile/sarbanandabhikkhu)** and **[AtCoder](https://atcoder.jp/users/sarbanandabhikkhu)**.
   - ⚡ To know more headout to my **[Portfolio](http://sarbanandabhikkhu.github.io/)**.
   - 👯 When I'm not coding, find me on the court playing basketball or cricket!😉<br>
-
-  #### Github Stats
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=sarbanandabhikkhu&count_private=true&show_icons=true&theme=radical&line_height=27&v=5&include_all_commits=true" alt="SarbaNanda's github stats"/>
-  </a>
 </details>
 
-## 📈 Some Stats
+## 📈 Github Stats
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sarbanandabhikkhu.sarbanandabhikkhu)
 
