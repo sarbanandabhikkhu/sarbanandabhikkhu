@@ -42,7 +42,16 @@ I'm SarbaNanda, a Budddhist Monk from CHT in <img src="assets/bangladesh.jpg" wi
 [![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#)
 [![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)
 
-<details>
+
+### 📺 &emsp;Latest YouTube Videos
+
+- [২০২২ এ এসে কেন রিয়্যাক্ট শিখবেন - Should you learn react js in 2022 ?](https://www.youtube.com/watch?v=1eFczVsGLYk)
+- [Why redux? | Introduction to redux.](https://www.youtube.com/watch?v=91HdW69lAVo)
+- [Best practices for Node Application Deployment - Foyzul Karim](https://www.youtube.com/watch?v=XlioXHL7G-4)
+- [Redux কেন প্রয়োজন - Why Redux - A talk with Jhankar Mahbub](https://www.youtube.com/watch?v=fuAsjgOp-6U)
+- [থিংক ইন এ রিডাক্স ওয়ে কোর্সে কিভাবে এনরোল করবেন](https://www.youtube.com/watch?v=CsSyy0qfuiQ)
+
+### <details>
   <summary>
     You wanna know more about me?
   </summary>
@@ -51,7 +60,7 @@ I'm SarbaNanda, a Budddhist Monk from CHT in <img src="assets/bangladesh.jpg" wi
 
   #### What is I'm Here?
 
-  "Learn with Sumit" is all about teaching web development skills and techniques in an efficient and practical manner. It has all the tools you need to learn the newest and most popular technologies to convert you from a no stack to full stack developer. I started "Learn with Sumit" in order to share my passion for web development and do what I truly love - teach and inspire new web developers.
+  I'm SarbaNanda, a Budddhist Monk from CHT in <img src="assets/bangladesh.jpg" width="20"/> Bangladesh. I am more interested in Buddhism and Buddhist literature and would like to work on it in the future. Desire to do something related to Buddhism on digital platform. I practice coding in my spare time, I believe that I have acquired enough coding knowledge to run a job. I always have a passion to learn and know something new. I also want to work as a content creator on [Youtube](https://youtube.com/channel/UC3WIwB7nbYMEvWW4CGQGYsA).
 
   #### Github Stats
 
@@ -60,12 +69,10 @@ I'm SarbaNanda, a Budddhist Monk from CHT in <img src="assets/bangladesh.jpg" wi
   </a>
 </details>
 
-
-#### Profile Visits
-![visitors](https://visitor-badge.glitch.me/badge?page_id=sarbanandabhikkhu.sarbanandabhikkhu)
-<img src="https://visitor-badge.laobi.icu/badgepage_id=sarbanandabhikkhu.visitor-badge">
-
 ## 📈 Some Stats
+
+### Profile Visits
+![visitors](https://visitor-badge.glitch.me/badge?page_id=sarbanandabhikkhu.sarbanandabhikkhu)
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
