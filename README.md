@@ -53,29 +53,29 @@ I'm SarbaNanda, a Budddhist Monk from CHT in 🇧🇩 Bangladesh. I am more inte
 
 **Things I code with**
 
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](https://www.javascript.com/)
-[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](https://nodejs.org/en/)
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](https://reactjs.org/)
-[![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
-[![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://mongodb.com/)
-[![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
-[![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![VSCode Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](https://code.visualstudio.com/)
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=333333&logo=javascript&logoColor=F0DB4F)](https://www.javascript.com/)
+[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=333333&logo=node.js&logoColor=3C873A)](https://nodejs.org/en/)
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=333333&logo=react&logoColor=61DBFB)](https://reactjs.org/)
+[![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&labelColor=333333&logo=express&logoColor=white)](https://expressjs.com/)
+[![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&labelColor=333333&logo=mongodb&logoColor=4EA94B)](#)
+[![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&labelColor=333333&logo=sass&logoColor=CC6699)](https://sass-lang.com/)
+[![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=333333&logo=git&logoColor=F05032)](https://git-scm.com/)
+[![VSCode Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&labelColor=333333&logo=visual%20studio&logoColor=5C2D91)](https://code.visualstudio.com/)
 
 **My Future Learning Plan**
 
-[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](https://www.typescriptlang.org/)
-[![Python Badge](https://img.shields.io/badge/-Python-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](https://www.python.org/)
-[![Next.js Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-[![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](https://graphql.org/)
-[![Tailwind Badge](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)](https://tailwindcss.com/)
+[![Typescript Badge](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=333333&logo=typescript&logoColor=007acc)](https://www.typescriptlang.org/)
+[![Python Badge](https://img.shields.io/badge/Python-306998?style=for-the-badge&labelColor=333333&logo=python&logoColor=FFD43B)](https://www.python.org/)
+[![Next.js Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&labelColor=333333&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![GraphQL Badge](https://img.shields.io/badge/GraphQl-e535ab?style=for-the-badge&labelColor=333333&logo=graphql&logoColor=e535ab)](https://graphql.org/)
+[![Tailwind Badge](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&labelColor=333333&logo=tailwindcss&logoColor=61DBFB)](https://tailwindcss.com/)
 
 **My Favorite Stack**
 
-[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
-[![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#)
-[![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)
+[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=333333&logo=node.js&logoColor=3C873A)](#)
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=333333&logo=react&logoColor=61DBFB)](#)
+[![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&labelColor=333333&logo=express&logoColor=white)](#)
+[![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&labelColor=333333&logo=mongodb&logoColor=4EA94B)](#)
 
 <details>
   <summary>
@@ -96,7 +96,7 @@ I'm SarbaNanda, a Budddhist Monk from CHT in 🇧🇩 Bangladesh. I am more inte
 
 ## 📈 Github Stats
 
-[![Markdown - Badge Generator](https://img.shields.io/badge/Markdown-Badge_Generator-2ea44f?logo=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%2Ficons%2Fmarkdown%2Fmarkdown-original.svg&logoColor=white)](https://michaelcurrin.github.io/badge-generator/)
+[![Markdown - Badge Generator](https://img.shields.io/badge/Markdown-Badge_Generator-2ea44f?logo=https://cdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%2Ficons%2Fmarkdown%2Fmarkdown-original.svg&logoColor=white)](https://michaelcurrin.github.io/badge-generator/)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sarbanandabhikkhu.sarbanandabhikkhu)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](#)
 
