@@ -96,9 +96,22 @@ I'm SarbaNanda, a Budddhist Monk from CHT in 🇧🇩 Bangladesh. I am more inte
 
 ## 📈 Github Stats
 
-[![Markdown - Badge Generator](https://img.shields.io/badge/Markdown-Badge_Generator-2ea44f?logo=https://cdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%2Ficons%2Fmarkdown%2Fmarkdown-original.svg&logoColor=white)](https://michaelcurrin.github.io/badge-generator/)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=sarbanandabhikkhu.sarbanandabhikkhu)
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](#)
+[![sarbanandabhikkhu - sarbanandabhikkhu](https://img.shields.io/static/v1?label=sarbanandabhikkhu&message=sarbanandabhikkhu&color=blue&logo=github)](https://github.com/sarbanandabhikkhu/sarbanandabhikkhu "Go to GitHub repo")
+[![visitors - sarbanandabhikkhu](https://visitor-badge.glitch.me/badge?page_id=sarbanandabhikkhu.sarbanandabhikkhu?style=social)](https://github.com/sarbanandabhikkhu/sarbanandabhikkhu)
+[![stars - sarbanandabhikkhu](https://img.shields.io/github/stars/sarbanandabhikkhu/sarbanandabhikkhu?style=social)](https://github.com/sarbanandabhikkhu/sarbanandabhikkhu)
+[![forks - sarbanandabhikkhu](https://img.shields.io/github/forks/sarbanandabhikkhu/sarbanandabhikkhu?style=social)](https://github.com/sarbanandabhikkhu/sarbanandabhikkhu)
+
+[![CI](https://github.com/sarbanandabhikkhu/sarbanandabhikkhu/workflows/CI/badge.svg)](https://github.com/sarbanandabhikkhu/sarbanandabhikkhu/actions?query=workflow:"CI")
+[![GitHub tag](https://img.shields.io/github/tag/sarbanandabhikkhu/sarbanandabhikkhu?include_prereleases=&sort=semver&color=blue)](https://github.com/sarbanandabhikkhu/sarbanandabhikkhu/releases/)
+[![License](https://img.shields.io/badge/License-MIT-blue)](#license)
+[![issues - sarbanandabhikkhu](https://img.shields.io/github/issues/sarbanandabhikkhu/sarbanandabhikkhu)](https://github.com/sarbanandabhikkhu/sarbanandabhikkhu/issues)
+
+<div align="center">
+
+[![Use this template](https://img.shields.io/badge/Generate-Use_this_template-2ea44f?style=for-the-badge)](https://github.com/sarbanandabhikkhu/sarbanandabhikkhu/generate)
+[![View site - GH Pages](https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge)](https://sarbanandabhikkhu.github.io/sarbanandabhikkhu/)
+
+</div>
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
@@ -114,7 +127,27 @@ I'm SarbaNanda, a Budddhist Monk from CHT in 🇧🇩 Bangladesh. I am more inte
     <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarbanandabhikkhu&layout=compact&theme=react&border_color=61dafb&hide_border=true&langs_count=10"/>
   </a>
 </div>
+
+
+## Documentation
+
+<div align="center">
+
+[![view - Documentation](https://img.shields.io/badge/view-Documentation-blue?style=for-the-badge)](/docs/ "Go to project documentation")
+[![Markdown - Badge Generator](https://img.shields.io/badge/Markdown-Badge_Generator-2ea44f?style=for-the-badge&logo=markdown&logoColor=white)](https://michaelcurrin.github.io/badge-generator/)
+
+</div>
+
+## License
+
+<div align="center">
+
+Released under [MIT](/LICENSE) by [@sarbanandabhikkhu](https://github.com/sarbanandabhikkhu).
+
+</div>
+
 <hr>
+
 <div align="center">
 
   **Let's connect and chat!</h3>**
@@ -124,9 +157,9 @@ I'm SarbaNanda, a Budddhist Monk from CHT in 🇧🇩 Bangladesh. I am more inte
     <a href="mailto:sarbanandabhikkhu@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
     <a href="https://sarbanandabhikkhu.github.io/sarbanandabhikkhu" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
   </P>
-</div>
-<img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/dcd7447c179f5a1131590b6ccba2223e879ab655/readme/bottom.svg" alt="Bottom SVG">
+  <img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/dcd7447c179f5a1131590b6ccba2223e879ab655/readme/bottom.svg" alt="Bottom SVG">
 
+</div>
 <!--
 Visual Studio Code: https://code.visualstudio.com/
 Git: https://git-scm.com/
