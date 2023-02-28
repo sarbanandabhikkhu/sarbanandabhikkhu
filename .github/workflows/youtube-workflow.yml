@@ -4,9 +4,9 @@ on:
 
   schedule:
 
-    # Runs every day end
+    # Runs every hour
 
-    - cron: '0 0 * * *'
+    - cron: '0 * * * *'
 
   workflow_dispatch:
 
