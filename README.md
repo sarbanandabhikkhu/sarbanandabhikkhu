@@ -24,8 +24,6 @@ I'm SarbaNanda, a Budddhist Monk from CHT in 🇧🇩 Bangladesh. I am more inte
 <!--[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/) -->
 <!--[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)-->
 
-<br/>
-
 ### Favorite Languages and Tools
 
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=555555&logo=git&logoColor=F05032)](https://git-scm.com/)
@@ -38,13 +36,13 @@ I'm SarbaNanda, a Budddhist Monk from CHT in 🇧🇩 Bangladesh. I am more inte
 <a href="https://electronjs.org/"><img height="40" src="https://www.svgrepo.com/show/378796/electron.svg"></a>
 <a href="https://sass-lang.com/"><img height="40" src="https://sass-lang.com/assets/img/logos/logo.svg"></a>
 <a href="https://vitejs.dev/"><img height="40" src="https://vitejs.dev/logo.svg"></a>
+<a href="https://webpack.js.org/"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"></a>
 
 <a href="https://developer.android.com/studio"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"></a>
 <a href="https://code.visualstudio.com/"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></a>
 <a href="https://figma.com/"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></a>
 <a href="https://www.google.com/intl/en_in/chrome/"><img height="40" src="https://www.google.com/chrome/static/images/chrome-logo-m100.svg"></a>
 
-<!--<a href="#"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"></a>-->
 <!--<a href="#"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"></a>-->
 <!--<a href="#"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></a>-->
 <!--<a href="#"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></a>-->
