@@ -71,6 +71,7 @@ I'm SarbaNanda, a Budddhist Monk from CHT in 🇧🇩 Bangladesh. I am more inte
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [126ft Laying Buddha Statue, Jurachari](https://www.youtube.com/watch?v=gp8cvd-z4O8)
 <!-- YOUTUBE:END -->
 
 
