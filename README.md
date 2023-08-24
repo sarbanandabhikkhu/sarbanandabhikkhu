@@ -70,12 +70,8 @@ I'm SarbaNanda, a Budddhist Monk from CHT in 🇧🇩 Bangladesh. I am more inte
 <!--[![Tailwind Badge](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&labelColor=555555&logo=tailwindcss&logoColor=61DBFB)](https://tailwindcss.com/)-->
 
 ## 📺 Latest YouTube Videos
-
- <!--YOUTUBE:START -->
- 
-- [126ft Laying Buddha Statue, Jurachari](https://www.youtube.com/watch?v=gp8cvd-z4O8)
- 
-<!--YOUTUBE:END -->
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 
 
 ## 📈 Github Stats
