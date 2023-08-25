@@ -1,10 +1,14 @@
 <!-- **sarbanandabhikkhu/sarbanandabhikkhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
+<div align="center">
+
 ![Github Banner](assets/monk.gif)
 
 **Hi there my gorgeous friend <img src="assets/hello.gif" width="28px" alt="hi">**
 
-I'm SarbaNanda, I'm a Budddhist Monk and MERN Stack Developer from CHT in 🇧🇩 Bangladesh.
+</div>
+
+My name is SarbaNanda, I'm a Budddhist Monk and MERN Stack Developer from CHT in 🇧🇩 Bangladesh.
 I am more interested in Buddhism and Buddhist literature and would like to work on it in the future. Desire to do something related to Buddhism on digital platform.
 I practice coding in my spare time, I believe that I have acquired enough coding knowledge to run a job. I always have a passion to learn and know something new.
 I also want to work as a content creator on [Youtube](https://www.youtube.com/@sarbanandabhikkhu) in the future.
@@ -17,10 +21,13 @@ I also want to work as a content creator on [Youtube](https://www.youtube.com/@s
 <!--  - ⚡ To know more headout to my **[Portfolio](http://sarbanandabhikkhu.github.io/sarbanandabhikkhu)**.-->
 <!--  - 📖 💭 When I'm not coding, find me on the online library reading books or research!😉<br>-->
 
-**☕ Connect with me!**
+**Support & connect with me!**
 
-[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarbanandabhikkhu@gmail.com)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@sarbanandabhikkhu)
+[![Youtube](https://img.shields.io/badge/Subscribe-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/@sarbanandabhikkhu)
+[![G-Mail](https://img.shields.io/badge/Send_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarbanandabhikkhu@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=github)](https://sarbanandabhikkhu.github.io)
+
+**<a href="https://ko-fi.com/sarbanandabhikkhu">☕ Buy me a coffee</a>**
 
 <!--[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/)-->
 <!--[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)-->
@@ -71,15 +78,16 @@ I also want to work as a content creator on [Youtube](https://www.youtube.com/@s
 [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&labelColor=555555&logo=express&logoColor=white)](https://expressjs.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&labelColor=555555&logo=mongodb&logoColor=4EA94B)](https://www.mongodb.com/)
 
-## 📺 YouTube Stats
+<!--## YouTube Stats-->
+<!--<a href="https://www.youtube.com/channel/UC3WIwB7nbYMEvWW4CGQGYsA?sub_confirmation=1"><img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630"/></a>-->
+<!--<a href="https://www.youtube.com/channel/UC3WIwB7nbYMEvWW4CGQGYsA"><img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/youtube-api/view-count-badge.php?label=View+Count&style=for-the-badge&color=blue&labelColor=0b689d"/></a>-->
 
-<a href="https://www.youtube.com/channel/UC3WIwB7nbYMEvWW4CGQGYsA?sub_confirmation=1"><img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630"/></a>
-<a href="https://www.youtube.com/channel/UC3WIwB7nbYMEvWW4CGQGYsA"><img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/youtube-api/view-count-badge.php?label=View+Count&style=for-the-badge&color=blue&labelColor=0b689d"/></a>
-
-### Latest YouTube Videos
+## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+
 - [126ft Laying Buddha Statue, Jurachari](https://www.youtube.com/watch?v=gp8cvd-z4O8)
+
 <!-- YOUTUBE:END -->
 
 ## 📈 Github Stats
@@ -114,8 +122,7 @@ I also want to work as a content creator on [Youtube](https://www.youtube.com/@s
 
 <div align="center">
 
-[![Markdown Guide](https://img.shields.io/badge/Markdown-blue?style=for-the-badge&labelColor=555555&logo=markdown)](https://www.markdownguide.org/basic-syntax/)
-[![GitHub Pages](https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge)](https://sarbanandabhikkhu.github.io)
+[![Markdown Guide](https://img.shields.io/badge/View_Site-Markdown-blue?style=for-the-badge&labelColor=555555&logo=markdown)](https://www.markdownguide.org/basic-syntax/)
 [![Use this template](https://img.shields.io/badge/Generate-Use_this_template-2ea44f?style=for-the-badge)](https://github.com/sarbanandabhikkhu/sarbanandabhikkhu/generate)
 
 <!--[![view - Documentation](https://img.shields.io/badge/view-Documentation-blue?style=for-the-badge)](/docs/ "Go to project documentation")-->
@@ -135,8 +142,6 @@ Released under [MIT](/LICENSE) by [@sarbanandabhikkhu](https://github.com/sarban
 
 <div align="center">
 
-<!--<a href="https://ko-fi.com/sarbananda">☕ Buy me a coffee</a>-->
-
 **Let's connect and chat!</h3>**
 
   <P>
@@ -146,8 +151,6 @@ Released under [MIT](/LICENSE) by [@sarbanandabhikkhu](https://github.com/sarban
     <a href="https://sarbanandabhikkhu.github.io" alt="My Portfolio"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
   </P>
   
-  <a href="https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg?sub_confirmation=1"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-
   <img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/dcd7447c179f5a1131590b6ccba2223e879ab655/readme/bottom.svg" alt="Bottom SVG">
 
 </div>
