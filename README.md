@@ -8,7 +8,7 @@
 
 </div>
 
-My name is SarbaNanda, I'm a Budddhist Monk and MERN Stack Developer from CHT in 🇧🇩 Bangladesh.
+My name is SarbaNanda, I'm a Budddhist Monk and MERN Stack Web Developer from CHT in 🇧🇩 Bangladesh.
 I am more interested in Buddhism and Buddhist literature and would like to work on it in the future. Desire to do something related to Buddhism on digital platform.
 I practice coding in my spare time, I believe that I have acquired enough coding knowledge to run a job. I always have a passion to learn and know something new.
 I also want to work as a content creator on [Youtube](https://www.youtube.com/@sarbanandabhikkhu) in the future.
@@ -27,7 +27,7 @@ I also want to work as a content creator on [Youtube](https://www.youtube.com/@s
 [![G-Mail](https://img.shields.io/badge/Send_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarbanandabhikkhu@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=github)](https://sarbanandabhikkhu.github.io)
 
-**<a href="https://ko-fi.com/sarbanandabhikkhu">☕ Buy me a coffee</a>**
+<!--**<a href="https://ko-fi.com/sarbanandabhikkhu">☕ Buy me a coffee</a>**-->
 
 <!--[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/)-->
 <!--[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)-->
@@ -50,8 +50,9 @@ I also want to work as a content creator on [Youtube](https://www.youtube.com/@s
 <a href="https://github.com/"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></a>
 <a href="https://reactjs.org/"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></a>
 <a href="https://mongodb.com/"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></a>
-<a href="https://firebase.google.com/"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"></a>
+<a href="https://firebase.google.com/"><img height="40" src="assets/icons/firebase.svg"></a>
 <a href="https://getbootstrap.com/"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"></a>
+<a href="https://tailwindcss.com/"><img height="40" src="assets/icons/tailwindcss.svg"></a>
 <a href="https://expressjs.com/"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"></a>
 <a href="https://threejs.org/"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg"></a>
 <a href="https://electronjs.org/"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg"></a>
@@ -85,6 +86,7 @@ I also want to work as a content creator on [Youtube](https://www.youtube.com/@s
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+
 - [126ft Laying Buddha Statue, Jurachari](https://www.youtube.com/watch?v=gp8cvd-z4O8)
 <!-- YOUTUBE:END -->
 
