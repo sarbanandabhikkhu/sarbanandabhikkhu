@@ -2,15 +2,18 @@
 
 <div align="center">
 
-![Github Banner](assets/monk.gif)
+![Github Banner](assets/intro.jpg)
 
 **Hi there my gorgeous friend <img src="assets/hello.gif" width="28px" alt="hi">**
 
 </div>
 
-My name is SarbaNanda, I'm a Budddhist Monk and MERN Stack Web Developer from CHT in 🇧🇩 Bangladesh.
-I am more interested in Buddhism and Buddhist literature and would like to work on it in the future. Desire to do something related to Buddhism on digital platform.
-I practice coding in my spare time, I believe that I have acquired enough coding knowledge to run a job. I always have a passion to learn and know something new.
+My name is SarbaNanda,
+I'm a Budddhist Monk and MERN Stack Web Developer from CHT in 🇧🇩 Bangladesh.
+I am more interested in Buddhism and Buddhist literature.
+I would like to work on it in the future and desire to do something related to Buddhism on digital platform.
+I practice coding in my spare time and I believe that I have acquired enough coding knowledge to run a job.
+I always have a passion to learn and know something new.
 I also want to work as a content creator on [Youtube](https://www.youtube.com/@sarbanandabhikkhu) in the future.
 
 <!--**Here's a List of things I am currently keeping myself busy with:**-->
@@ -38,31 +41,31 @@ I also want to work as a content creator on [Youtube](https://www.youtube.com/@s
 
 <!--[![javascript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)](https://www.javascript.com/)-->
 
-<a href=""><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a>
-<a href="https://www.typescriptlang.org/"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></a>
-<a href="https://www.python.org/"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></a>
-<a href="https://www.java.com/en/"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></a>
-<a href="https://www.sqlite.org/"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"></a>
-<a href="https://sass-lang.com/"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"></a>
-<a href="https://nodejs.org/en/"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></a>
-<a href="https://www.npmjs.com/"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"></a>
-<a href="https://git-scm.com/"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></a>
-<a href="https://github.com/"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></a>
-<a href="https://reactjs.org/"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></a>
-<a href="https://mongodb.com/"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></a>
+<a href="https://www.javascript.com/"><img height="40" src="icons/javascript.svg"></a>
+<a href="https://www.typescriptlang.org/"><img height="40" src="assets/icons/typescript.svg"></a>
+<a href="https://www.python.org/"><img height="40" src="assets/icons/python.svg"></a>
+<a href="https://www.java.com/en/"><img height="40" src="assets/icons/java.svg"></a>
+<a href="https://www.sqlite.org/"><img height="40" src="assets/icons/sqlite.svg"></a>
+<a href="https://sass-lang.com/"><img height="40" src="assets/icons/sass.svg"></a>
+<a href="https://nodejs.org/en/"><img height="40" src="assets/icons/nodejs.svg"></a>
+<a href="https://www.npmjs.com/"><img height="40" src="assets/icons/npm.svg"></a>
+<a href="https://git-scm.com/"><img height="40" src="assets/icons/git.svg"></a>
+<a href="https://github.com/"><img height="40" src="assets/icons/github.svg"></a>
+<a href="https://reactjs.org/"><img height="40" src="assets/icons/react.svg"></a>
+<a href="https://mongodb.com/"><img height="40" src="assets/icons/mongodb.svg"></a>
 <a href="https://firebase.google.com/"><img height="40" src="assets/icons/firebase.svg"></a>
-<a href="https://getbootstrap.com/"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"></a>
+<a href="https://getbootstrap.com/"><img height="40" src="assets/icons/bootstrap.svg"></a>
 <a href="https://tailwindcss.com/"><img height="40" src="assets/icons/tailwindcss.svg"></a>
-<a href="https://expressjs.com/"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"></a>
-<a href="https://threejs.org/"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg"></a>
-<a href="https://electronjs.org/"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg"></a>
+<a href="https://expressjs.com/"><img height="40" src="assets/icons/express.svg"></a>
+<a href="https://threejs.org/"><img height="40" src="assets/icons/threejs.svg"></a>
+<a href="https://electronjs.org/"><img height="40" src="assets/icons/electron.svg"></a>
 <a href="https://vitejs.dev/"><img height="40" src="https://vitejs.dev/logo.svg"></a>
-<a href="https://webpack.js.org/"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"></a>
+<a href="https://webpack.js.org/"><img height="40" src="assets/icons/webpack.svg"></a>
 
 <a href="https://www.google.com/intl/en_in/chrome/"><img height="40" src="https://www.google.com/chrome/static/images/chrome-logo-m100.svg"></a>
-<a href="https://developer.android.com/studio"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"></a>
-<a href="https://code.visualstudio.com/"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></a>
-<a href="https://figma.com/"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></a>
+<a href="https://developer.android.com/studio"><img height="40" src="assets/icons/androidstudio.svg"></a>
+<a href="https://code.visualstudio.com/"><img height="40" src="assets/icons/vscode.svg"></a>
+<a href="https://figma.com/"><img height="40" src="assets/icons/figma/figma-original.svg"></a>
 <a href="https://www.adobe.com/in/products/illustrator.html"><img height="40" src="https://www.adobe.com/content/dam/cc/icons/illustrator.svg"></a>
 
 <!--<a href="https://www.markdownguide.org/"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"></a>-->
@@ -86,6 +89,7 @@ I also want to work as a content creator on [Youtube](https://www.youtube.com/@s
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+
 - [126ft Laying Buddha Statue, Jurachari](https://www.youtube.com/watch?v=gp8cvd-z4O8)
 <!-- YOUTUBE:END -->
 
@@ -181,4 +185,5 @@ Tailwind: https://tailwindcss.com/
 svgrepo: https://www.svgrepo.com/
 illustrator: https://www.adobe.com/in/products/illustrator.html
 github-readme-youtube-stats: https://github.com/DenverCoder1/github-readme-youtube-stats
+devicons: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg
 -->
