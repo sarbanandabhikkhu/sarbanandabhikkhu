@@ -41,7 +41,7 @@ I also want to work as a content creator on [Youtube](https://www.youtube.com/@s
 
 <!--[![javascript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)](https://www.javascript.com/)-->
 
-<a href="https://www.javascript.com/"><img height="40" src="icons/javascript.svg"></a>
+<a href="https://www.javascript.com/"><img height="40" src="assets/icons/javascript.svg"></a>
 <a href="https://www.typescriptlang.org/"><img height="40" src="assets/icons/typescript.svg"></a>
 <a href="https://www.python.org/"><img height="40" src="assets/icons/python.svg"></a>
 <a href="https://www.java.com/en/"><img height="40" src="assets/icons/java.svg"></a>
@@ -59,14 +59,14 @@ I also want to work as a content creator on [Youtube](https://www.youtube.com/@s
 <a href="https://expressjs.com/"><img height="40" src="assets/icons/express.svg"></a>
 <a href="https://threejs.org/"><img height="40" src="assets/icons/threejs.svg"></a>
 <a href="https://electronjs.org/"><img height="40" src="assets/icons/electron.svg"></a>
-<a href="https://vitejs.dev/"><img height="40" src="https://vitejs.dev/logo.svg"></a>
+<a href="https://vitejs.dev/"><img height="40" src="assets/icons/vitejs.svg"></a>
 <a href="https://webpack.js.org/"><img height="40" src="assets/icons/webpack.svg"></a>
 
-<a href="https://www.google.com/intl/en_in/chrome/"><img height="40" src="https://www.google.com/chrome/static/images/chrome-logo-m100.svg"></a>
+<a href="https://www.google.com/intl/en_in/chrome/"><img height="40" src="assets/icons/chrome.svg"></a>
 <a href="https://developer.android.com/studio"><img height="40" src="assets/icons/androidstudio.svg"></a>
 <a href="https://code.visualstudio.com/"><img height="40" src="assets/icons/vscode.svg"></a>
-<a href="https://figma.com/"><img height="40" src="assets/icons/figma/figma-original.svg"></a>
-<a href="https://www.adobe.com/in/products/illustrator.html"><img height="40" src="https://www.adobe.com/content/dam/cc/icons/illustrator.svg"></a>
+<a href="https://figma.com/"><img height="40" src="assets/icons/figma.svg"></a>
+<a href="https://www.adobe.com/in/products/illustrator.html"><img height="40" src="assets/icons/illustrator.svg"></a>
 
 <!--<a href="https://www.markdownguide.org/"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"></a>-->
 <!--<a href="#"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg"></a>-->
@@ -186,4 +186,7 @@ svgrepo: https://www.svgrepo.com/
 illustrator: https://www.adobe.com/in/products/illustrator.html
 github-readme-youtube-stats: https://github.com/DenverCoder1/github-readme-youtube-stats
 devicons: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg
+  - https://www.adobe.com/content/dam/cc/icons/illustratoicons
+  - https://www.google.com/chrome/static/images/chrome-logo-m100.svg
+  - https://vitejs.dev/logo.svg
 -->
