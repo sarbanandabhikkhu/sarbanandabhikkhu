@@ -6,7 +6,7 @@
 
 </div>
 
-**Hi there my gorgeous friend <img src="assets/hello.gif" width="28px" alt="hi">**
+**Hi there my gorgeous friend <img src="assets/hello.gif" height="20px" alt="hi">**
 <br/>
 My name is SarbaNanda,
 I'm a Budddhist Monk and MERN Stack Web Developer from CHT in 🇧🇩 Bangladesh.
@@ -43,23 +43,18 @@ I also want to work as a content creator on [Youtube](https://www.youtube.com/@s
 
 <a href="https://www.javascript.com/"><img height="40" src="assets/icons/javascript.svg"></a>
 <a href="https://www.typescriptlang.org/"><img height="40" src="assets/icons/typescript.svg"></a>
-<a href="https://www.python.org/"><img height="40" src="assets/icons/python.svg"></a>
-<a href="https://www.java.com/en/"><img height="40" src="assets/icons/java.svg"></a>
-<a href="https://www.sqlite.org/"><img height="40" src="assets/icons/sqlite.svg"></a>
 <a href="https://sass-lang.com/"><img height="40" src="assets/icons/sass.svg"></a>
 <a href="https://nodejs.org/en/"><img height="40" src="assets/icons/nodejs.svg"></a>
-<a href="https://www.npmjs.com/"><img height="40" src="assets/icons/npm.svg"></a>
 <a href="https://git-scm.com/"><img height="40" src="assets/icons/git.svg"></a>
 <a href="https://github.com/"><img height="40" src="assets/icons/github.svg"></a>
 <a href="https://reactjs.org/"><img height="40" src="assets/icons/react.svg"></a>
+<a href="https://redux.js.org/"><img height="40" src="assets/icons/redux.svg">
 <a href="https://nextjs.org/"><img height="40" src="assets/icons/nextjs.svg"></a>
 <a href="https://mongodb.com/"><img height="40" src="assets/icons/mongodb.svg"></a>
 <a href="https://firebase.google.com/"><img height="40" src="assets/icons/firebase.svg"></a>
 <a href="https://getbootstrap.com/"><img height="40" src="assets/icons/bootstrap.svg"></a>
 <a href="https://tailwindcss.com/"><img height="40" src="assets/icons/tailwindcss.svg"></a>
 <a href="https://expressjs.com/"><img height="40" src="assets/icons/express.svg"></a>
-<a href="https://threejs.org/"><img height="40" src="assets/icons/threejs.svg"></a>
-<a href="https://electronjs.org/"><img height="40" src="assets/icons/electron.svg"></a>
 <a href="https://vitejs.dev/"><img height="40" src="assets/icons/vite.svg"></a>
 <a href="https://webpack.js.org/"><img height="40" src="assets/icons/webpack.svg"></a>
 
@@ -69,12 +64,19 @@ I also want to work as a content creator on [Youtube](https://www.youtube.com/@s
 <a href="https://figma.com/"><img height="40" src="assets/icons/figma.svg"></a>
 <a href="https://www.adobe.com/in/products/illustrator.html"><img height="40" src="assets/icons/illustrator.svg"></a>
 
-<!--<a href="https://www.markdownguide.org/"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"></a>-->
-<!--<a href="#"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg"></a>-->
+**Others & Alternatives**
+
+<a href="https://www.python.org/"><img height="40" src="assets/icons/python.svg"></a>
+<a href="https://www.java.com/en/"><img height="40" src="assets/icons/java.svg"></a>
+<a href="https://www.sqlite.org/"><img height="40" src="assets/icons/sqlite.svg"></a>
+<a href="https://socket.io/"><img height="40" src="assets/icons/socketio.svg"></a>
+<a href="https://threejs.org/"><img height="40" src="assets/icons/threejs.svg"></a>
+<a href="https://electronjs.org/"><img height="40" src="assets/icons/electron.svg"></a>
+
+<!--<a href="https://www.npmjs.com/"><img height="40" src="assets/icons/npm.svg"></a>-->
+<!--<a href="https://babeljs.io/"><img height="40" src="assets/icons/babel.svg"></a>-->
+<!--<a href="https://www.markdownguide.org/"><img height="40" src="assets/icons/markdown.svg"></a>-->
 <!--<a href="https://netlify.com/"><img height="40" src="https://cdn.worldvectorlogo.com/logos/netlify.svg"></a>-->
-<!--<a href="https://redux.js.org/"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"></a>-->
-<!--<a href="https://nextjs.org/"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"></a>-->
-<!--<a href="https://socket.io/"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg"></a>-->
 
 ### My Favorite Stack
 
@@ -162,6 +164,7 @@ Released under [MIT](/LICENSE) by [@sarbanandabhikkhu](https://github.com/sarban
 <!--
 VS Code: https://code.visualstudio.com/
 npm: https://www.npmjs.com/
+babel: https://babeljs.io/
 Git: https://git-scm.com/
 NodeJS: https://nodejs.org/en/
 ReactJs: https://reactjs.org/
