@@ -6,7 +6,7 @@
 
 </div>
 
-**Hi there my gorgeous friend <img src="assets/hello.gif" height="20px" alt="hi">**
+**Hi there my gorgeous friend <img src="assets/hello.gif" height="20px" alt="Hello">**
 <br/>
 My name is SarbaNanda,
 I'm a Budddhist Monk and MERN Stack Web Developer from CHT in 🇧🇩 Bangladesh.
@@ -43,7 +43,6 @@ I also want to work as a content creator on [Youtube](https://www.youtube.com/@s
 
 <a href="https://www.javascript.com/"><img height="40" src="assets/icons/javascript.svg"></a>
 <a href="https://www.typescriptlang.org/"><img height="40" src="assets/icons/typescript.svg"></a>
-<a href="https://sass-lang.com/"><img height="40" src="assets/icons/sass.svg"></a>
 <a href="https://nodejs.org/en/"><img height="40" src="assets/icons/nodejs.svg"></a>
 <a href="https://git-scm.com/"><img height="40" src="assets/icons/git.svg"></a>
 <a href="https://github.com/"><img height="40" src="assets/icons/github.svg"></a>
@@ -51,12 +50,11 @@ I also want to work as a content creator on [Youtube](https://www.youtube.com/@s
 <a href="https://redux.js.org/"><img height="40" src="assets/icons/redux.svg">
 <a href="https://nextjs.org/"><img height="40" src="assets/icons/nextjs.svg"></a>
 <a href="https://mongodb.com/"><img height="40" src="assets/icons/mongodb.svg"></a>
-<a href="https://firebase.google.com/"><img height="40" src="assets/icons/firebase.svg"></a>
-<a href="https://getbootstrap.com/"><img height="40" src="assets/icons/bootstrap.svg"></a>
-<a href="https://tailwindcss.com/"><img height="40" src="assets/icons/tailwindcss.svg"></a>
 <a href="https://expressjs.com/"><img height="40" src="assets/icons/express.svg"></a>
 <a href="https://vitejs.dev/"><img height="40" src="assets/icons/vite.svg"></a>
 <a href="https://webpack.js.org/"><img height="40" src="assets/icons/webpack.svg"></a>
+<a href="https://sass-lang.com/"><img height="40" src="assets/icons/sass.svg"></a>
+<a href="https://tailwindcss.com/"><img height="40" src="assets/icons/tailwindcss.svg"></a>
 
 <a href="https://www.google.com/intl/en_in/chrome/"><img height="40" src="assets/icons/chrome.svg"></a>
 <a href="https://developer.android.com/studio"><img height="40" src="assets/icons/androidstudio.svg"></a>
@@ -69,6 +67,9 @@ I also want to work as a content creator on [Youtube](https://www.youtube.com/@s
 <a href="https://www.python.org/"><img height="40" src="assets/icons/python.svg"></a>
 <a href="https://www.java.com/en/"><img height="40" src="assets/icons/java.svg"></a>
 <a href="https://www.sqlite.org/"><img height="40" src="assets/icons/sqlite.svg"></a>
+
+<a href="https://getbootstrap.com/"><img height="40" src="assets/icons/bootstrap.svg"></a>
+<a href="https://firebase.google.com/"><img height="40" src="assets/icons/firebase.svg"></a>
 <a href="https://socket.io/"><img height="40" src="assets/icons/socketio.svg"></a>
 <a href="https://threejs.org/"><img height="40" src="assets/icons/threejs.svg"></a>
 <a href="https://electronjs.org/"><img height="40" src="assets/icons/electron.svg"></a>
@@ -82,7 +83,7 @@ I also want to work as a content creator on [Youtube](https://www.youtube.com/@s
 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=555555&logo=node.js&logoColor=3C873A)](https://nodejs.org/en/)
 [![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=555555&logo=react&logoColor=61DBFB)](https://reactjs.org/)
-[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&labelColor=555555&logo=express&logoColor=white)](https://expressjs.com/)
+[![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&labelColor=555555&logo=express&logoColor=white)](https://expressjs.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&labelColor=555555&logo=mongodb&logoColor=4EA94B)](https://www.mongodb.com/)
 
 <!--## YouTube Stats-->
@@ -169,30 +170,32 @@ Git: https://git-scm.com/
 NodeJS: https://nodejs.org/en/
 ReactJs: https://reactjs.org/
 React Native: https://reactnative.dev/
+NextJS: https://nextjs.org/
 Express: https://expressjs.com/
 MongoDB: https://mongodb.com/
-SQLite: https://www.sqlite.org/
-SASS: https://sass-lang.com/
 Firebase: https://firebase.google.com/
 Threejs: https://threejs.org/
 Markdown: https://www.markdownguide.org/
-
 HTML5: https://html.com/
 CSS3: https://www.w3.org/TR/CSS/#css
 JavaScript: https://www.javascript.com/
 TypeScript: https://www.typescriptlang.org/
 Python: https://www.python.org/
 Java: https://www.java.com/en/
+SQLite: https://www.sqlite.org/
+SASS: https://sass-lang.com/
 NextJS: https://nextjs.org/
 GraphQL: https://graphql.org/
 Tailwind: https://tailwindcss.com/
+
 svgrepo: https://www.svgrepo.com/
 illustrator: https://www.adobe.com/in/products/illustrator.html
 github-readme-youtube-stats: https://github.com/DenverCoder1/github-readme-youtube-stats
 
+links:
   - https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg
   - https://www.adobe.com/content/dam/cc/icons/illustratoicons
   - https://www.google.com/chrome/static/images/chrome-logo-m100.svg
   - https://vitejs.dev/logo.svg
-  - https://nextjs.org/docs
+
 -->
