@@ -67,6 +67,10 @@ I also want to work as a content creator on [Youtube](https://www.youtube.com/@s
 <a href="https://www.python.org/"><img height="40" src="assets/icons/python.svg"></a>
 <a href="https://www.java.com/en/"><img height="40" src="assets/icons/java.svg"></a>
 <a href="https://www.sqlite.org/"><img height="40" src="assets/icons/sqlite.svg"></a>
+<a href="https://acode.foxdebug.com/"><img height="40" src="assets/icons/acode.svg"></a>
+<a href="https://f-droid.org/en/packages/com.termux/"><img height="40" src="assets/icons/termux.png"></a>
+
+<!--<a href="https://github.com/vhqtvn/VHEditor-Android"><img height="40" src="assets/icons/vheditor.png"></a>-->
 
 <a href="https://getbootstrap.com/"><img height="40" src="assets/icons/bootstrap.svg"></a>
 <a href="https://firebase.google.com/"><img height="40" src="assets/icons/firebase.svg"></a>
@@ -197,5 +201,6 @@ links:
   - https://www.adobe.com/content/dam/cc/icons/illustratoicons
   - https://www.google.com/chrome/static/images/chrome-logo-m100.svg
   - https://vitejs.dev/logo.svg
+  - https://acode.foxdebug.com/
 
 -->
