@@ -43,6 +43,7 @@ I also want to work as a content creator on [Youtube](https://www.youtube.com/@s
 
 <a href="https://www.javascript.com/"><img height="40" src="assets/icons/javascript.svg"></a>
 <a href="https://www.typescriptlang.org/"><img height="40" src="assets/icons/typescript.svg"></a>
+<a href="https://www.sqlite.org/"><img height="40" src="assets/icons/sqlite.svg"></a>
 <a href="https://nodejs.org/en/"><img height="40" src="assets/icons/nodejs.svg"></a>
 <a href="https://git-scm.com/"><img height="40" src="assets/icons/git.svg"></a>
 <a href="https://github.com/"><img height="40" src="assets/icons/github.svg"></a>
@@ -50,11 +51,16 @@ I also want to work as a content creator on [Youtube](https://www.youtube.com/@s
 <a href="https://redux.js.org/"><img height="40" src="assets/icons/redux.svg">
 <a href="https://nextjs.org/"><img height="40" src="assets/icons/nextjs.svg"></a>
 <a href="https://mongodb.com/"><img height="40" src="assets/icons/mongodb.svg"></a>
+<a href="https://firebase.google.com/"><img height="40" src="assets/icons/firebase.svg"></a>
 <a href="https://expressjs.com/"><img height="40" src="assets/icons/express.svg"></a>
 <a href="https://vitejs.dev/"><img height="40" src="assets/icons/vite.svg"></a>
 <a href="https://webpack.js.org/"><img height="40" src="assets/icons/webpack.svg"></a>
 <a href="https://sass-lang.com/"><img height="40" src="assets/icons/sass.svg"></a>
 <a href="https://tailwindcss.com/"><img height="40" src="assets/icons/tailwindcss.svg"></a>
+<a href="https://getbootstrap.com/"><img height="40" src="assets/icons/bootstrap.svg"></a>
+<a href="https://socket.io/"><img height="40" src="assets/icons/socketio.svg"></a>
+<a href="https://threejs.org/"><img height="40" src="assets/icons/threejs.svg"></a>
+<a href="https://electronjs.org/"><img height="40" src="assets/icons/electron.svg"></a>
 
 <a href="https://www.google.com/intl/en_in/chrome/"><img height="40" src="assets/icons/chrome.svg"></a>
 <a href="https://developer.android.com/studio"><img height="40" src="assets/icons/androidstudio.svg"></a>
@@ -62,21 +68,19 @@ I also want to work as a content creator on [Youtube](https://www.youtube.com/@s
 <a href="https://figma.com/"><img height="40" src="assets/icons/figma.svg"></a>
 <a href="https://www.adobe.com/in/products/illustrator.html"><img height="40" src="assets/icons/illustrator.svg"></a>
 
-**Others & Alternatives**
+**More interested in the future**
 
 <a href="https://www.python.org/"><img height="40" src="assets/icons/python.svg"></a>
 <a href="https://www.java.com/en/"><img height="40" src="assets/icons/java.svg"></a>
-<a href="https://www.sqlite.org/"><img height="40" src="assets/icons/sqlite.svg"></a>
-<a href="https://acode.foxdebug.com/"><img height="40" src="assets/icons/acode.svg"></a>
+<a href="https://go.dev/"><img height="40" src="assets/icons/go.svg"></a>
+<a href="https://www.rust-lang.org/"><img height="40" src="assets/icons/rust.svg"></a>
+
+**Helpful tools for coding on Android**
+
 <a href="https://f-droid.org/en/packages/com.termux/"><img height="40" src="assets/icons/termux.png"></a>
-
-<!--<a href="https://github.com/vhqtvn/VHEditor-Android"><img height="40" src="assets/icons/vheditor.png"></a>-->
-
-<a href="https://getbootstrap.com/"><img height="40" src="assets/icons/bootstrap.svg"></a>
-<a href="https://firebase.google.com/"><img height="40" src="assets/icons/firebase.svg"></a>
-<a href="https://socket.io/"><img height="40" src="assets/icons/socketio.svg"></a>
-<a href="https://threejs.org/"><img height="40" src="assets/icons/threejs.svg"></a>
-<a href="https://electronjs.org/"><img height="40" src="assets/icons/electron.svg"></a>
+<a href="https://acode.foxdebug.com/"><img height="40" src="assets/icons/acode.svg"></a>
+<a href="https://github.com/vhqtvn/VHEditor-Android"><img height="40" src="assets/icons/vheditor.png"></a>
+<a href="https://kiwibrowser.com/"><img height="40" src="assets/icons/qiwi.png"></a>
 
 <!--<a href="https://www.npmjs.com/"><img height="40" src="assets/icons/npm.svg"></a>-->
 <!--<a href="https://babeljs.io/"><img height="40" src="assets/icons/babel.svg"></a>-->
