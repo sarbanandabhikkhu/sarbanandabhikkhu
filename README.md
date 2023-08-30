@@ -44,15 +44,16 @@ I also want to work as a content creator on [Youtube](https://www.youtube.com/@s
 <a href="https://www.javascript.com/"><img height="40" src="assets/icons/javascript.svg"></a>
 <a href="https://www.typescriptlang.org/"><img height="40" src="assets/icons/typescript.svg"></a>
 <a href="https://www.sqlite.org/"><img height="40" src="assets/icons/sqlite.svg"></a>
-<a href="https://nodejs.org/en/"><img height="40" src="assets/icons/nodejs.svg"></a>
+<a href="https://www.java.com/en/"><img height="40" src="assets/icons/java.svg"></a>
 <a href="https://git-scm.com/"><img height="40" src="assets/icons/git.svg"></a>
 <a href="https://github.com/"><img height="40" src="assets/icons/github.svg"></a>
+<a href="https://nodejs.org/en/"><img height="40" src="assets/icons/nodejs.svg"></a>
 <a href="https://reactjs.org/"><img height="40" src="assets/icons/react.svg"></a>
 <a href="https://redux.js.org/"><img height="40" src="assets/icons/redux.svg">
 <a href="https://nextjs.org/"><img height="40" src="assets/icons/nextjs.svg"></a>
+<a href="https://expressjs.com/"><img height="40" src="assets/icons/express.svg"></a>
 <a href="https://mongodb.com/"><img height="40" src="assets/icons/mongodb.svg"></a>
 <a href="https://firebase.google.com/"><img height="40" src="assets/icons/firebase.svg"></a>
-<a href="https://expressjs.com/"><img height="40" src="assets/icons/express.svg"></a>
 <a href="https://vitejs.dev/"><img height="40" src="assets/icons/vite.svg"></a>
 <a href="https://webpack.js.org/"><img height="40" src="assets/icons/webpack.svg"></a>
 <a href="https://sass-lang.com/"><img height="40" src="assets/icons/sass.svg"></a>
@@ -71,9 +72,8 @@ I also want to work as a content creator on [Youtube](https://www.youtube.com/@s
 **More interested in the future**
 
 <a href="https://www.python.org/"><img height="40" src="assets/icons/python.svg"></a>
-<a href="https://www.java.com/en/"><img height="40" src="assets/icons/java.svg"></a>
-<a href="https://go.dev/"><img height="40" src="assets/icons/go.svg"></a>
 <a href="https://www.rust-lang.org/"><img height="40" src="assets/icons/rust.svg"></a>
+<a href="https://go.dev/"><img height="40" src="assets/icons/go.svg"></a>
 
 **Helpful tools for coding on Android**
 
