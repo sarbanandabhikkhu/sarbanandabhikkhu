@@ -4,10 +4,10 @@
 
 ![Github Banner](assets/intro.jpg)
 
-**Hi there my gorgeous friend <img src="assets/hello.gif" width="28px" alt="hi">**
-
 </div>
 
+**Hi there my gorgeous friend <img src="assets/hello.gif" width="28px" alt="hi">**
+<br/>
 My name is SarbaNanda,
 I'm a Budddhist Monk and MERN Stack Web Developer from CHT in 🇧🇩 Bangladesh.
 I am more interested in Buddhism and Buddhist literature.
@@ -52,6 +52,7 @@ I also want to work as a content creator on [Youtube](https://www.youtube.com/@s
 <a href="https://git-scm.com/"><img height="40" src="assets/icons/git.svg"></a>
 <a href="https://github.com/"><img height="40" src="assets/icons/github.svg"></a>
 <a href="https://reactjs.org/"><img height="40" src="assets/icons/react.svg"></a>
+<a href="https://nextjs.org/"><img height="40" src="assets/icons/nextjs.svg"></a>
 <a href="https://mongodb.com/"><img height="40" src="assets/icons/mongodb.svg"></a>
 <a href="https://firebase.google.com/"><img height="40" src="assets/icons/firebase.svg"></a>
 <a href="https://getbootstrap.com/"><img height="40" src="assets/icons/bootstrap.svg"></a>
@@ -89,6 +90,7 @@ I also want to work as a content creator on [Youtube](https://www.youtube.com/@s
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+
 - [126ft Laying Buddha Statue, Jurachari](https://www.youtube.com/watch?v=gp8cvd-z4O8)
 <!-- YOUTUBE:END -->
 
@@ -184,8 +186,10 @@ Tailwind: https://tailwindcss.com/
 svgrepo: https://www.svgrepo.com/
 illustrator: https://www.adobe.com/in/products/illustrator.html
 github-readme-youtube-stats: https://github.com/DenverCoder1/github-readme-youtube-stats
-devicons: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg
+
+  - https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg
   - https://www.adobe.com/content/dam/cc/icons/illustratoicons
   - https://www.google.com/chrome/static/images/chrome-logo-m100.svg
   - https://vitejs.dev/logo.svg
+  - https://nextjs.org/docs
 -->
