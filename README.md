@@ -102,7 +102,6 @@ I also want to work as a content creator on [Youtube](https://www.youtube.com/@s
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-
 - [126ft Laying Buddha Statue, Jurachari](https://www.youtube.com/watch?v=gp8cvd-z4O8)
 <!-- YOUTUBE:END -->
 
