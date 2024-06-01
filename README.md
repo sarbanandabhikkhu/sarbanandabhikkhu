@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Github Banner](assets/intro.jpg)
+![Github Banner](assets/banner.jpg)
 
 </div>
 
