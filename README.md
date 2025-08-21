@@ -102,6 +102,7 @@ I also want to work as a content creator on [Youtube](https://www.youtube.com/@s
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Daily Homage for Devotees @snbhante](https://www.youtube.com/watch?v=M30HwHA_s48)
 - [Karunabangsha Bhante Talks on About Rajban Sīmā Issue](https://www.youtube.com/watch?v=jtvUVVGFIqY)
 - [126ft Laying Buddha Statue, Jurachari](https://www.youtube.com/watch?v=gp8cvd-z4O8)
 <!-- YOUTUBE:END -->
