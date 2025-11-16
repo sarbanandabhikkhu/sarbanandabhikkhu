@@ -102,11 +102,11 @@ I also want to work as a content creator on [Youtube](https://www.youtube.com/@s
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Tuesday: Karaṇīyametta Suttaṃ &amp; Khandha Parittaṃ @snbhante](https://www.youtube.com/watch?v=ubQeCnK1i1M)
 - [Monday: Ratana Suttaṃ @snbhante](https://www.youtube.com/watch?v=zhlneWsq5O0)
 - [Sunday: Devatā āmantraṇa &amp; Maṅgala Suttaṃ @snbhante](https://www.youtube.com/watch?v=gDPD71-OuI4)
 - [Saturday: Bojjhaṅga Parittaṃ, Supubbaṇha Suttaṃ, Aṅgulimāla Parittaṃ @snbhante](https://www.youtube.com/watch?v=QWm63mZHoOg)
 - [Blessings and Dedication of Merits @snbhante](https://www.youtube.com/watch?v=8mzrTNoccMU)
-- [Daily Homage for Devotees @snbhante](https://www.youtube.com/watch?v=M30HwHA_s48)
 <!-- YOUTUBE:END -->
 
 ## 📈 Github Stats
